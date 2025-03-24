@@ -6,11 +6,20 @@ header{
     background-color: rgb(255, 255, 255);
     font-size: 20px;
     text-align: center;
-}
+    color: rgb(205, 125, 245);
+
+
+} 
 #imagemtopo{
     width: 30%;
   
 }
 .div1{
  padding: 80px;
+}
+
+p{
+    font-size:150%;
+    color: rgb(205, 125, 245);
+
 }
