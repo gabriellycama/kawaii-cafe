@@ -6,20 +6,57 @@ header{
     background-color: rgb(255, 255, 255);
     font-size: 20px;
     text-align: center;
-    color: rgb(205, 125, 245);
-
-
+    color: rgb(246, 110, 239);
 } 
 #imagemtopo{
     width: 30%;
+    display: block;
+    margin: 150px auto;
   
 }
 .div1{
- padding: 80px;
+ padding: 10px;
+ text-align: center;
 }
 
 p{
     font-size:150%;
-    color: rgb(205, 125, 245);
+    color: rgb(246, 110, 239);
 
 }
+h2{
+    font-size: 300%;
+    color: rgb(246, 110, 239);
+    margin-bottom: 50px;
+}
+
+.titulo-centralizar{
+    text-align: center;
+    font-size: 50px;
+   
+}
+
+.diferencial{
+    padding: 30px;
+    color: rgb(246, 110, 239);
+
+}
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size:250%;
+}
+.rodape{
+    height: 100px;
+    text-align: center;
+    padding: 20px;
+}
+.itens{
+    margin-left: 10px;
+}
+
